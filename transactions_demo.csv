@@ -1,0 +1,21 @@
+TransactionID,Amount (INR),Currency,Merchant,is_large_transaction
+1,1200,INR,Shop A,0
+2,8500,USD,Shop B,1
+3,,EUR,Shop C,0
+4,15000,INR,,1
+5,900,INR,Shop D,0
+6,11000,USD,Shop E,1
+7,1800,INR,Shop F,0
+8,,EUR,Shop G,1
+9,2000,INR,Shop H,0
+10,13000,USD,Shop I,1
+11,950,INR,Shop J,0
+12,7000,EUR,Shop K,1
+13,1400,INR,Shop L,0
+14,16000,USD,,1
+15,1150,INR,Shop N,0
+16,9000,EUR,Shop O,1
+17,600,INR,Shop P,0
+18,12500,USD,Shop Q,1
+19,1800,INR,Shop R,0
+20,,EUR,Shop S,1
