@@ -1,0 +1,20 @@
+# Bytecode y caché de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Empaquetado
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editores / SO
+.vscode/
+.DS_Store
